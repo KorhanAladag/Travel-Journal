@@ -1,5 +1,6 @@
 # Travel-Journal
 Travel Journal is a web app that becomes your personal travel companion, designed to provide information about places of interest from around the world, from famous landmarks to local hotspots.
+You can access live app link Here: https://fastidious-medovik-f1e9a5.netlify.app/
 
 To run this project follow these steps:
 
